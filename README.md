@@ -1,5 +1,5 @@
 # Rincon-cajacho
-Este proyecto fue desarrollado utilizando las siguientes teconologias:
+Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 - CSS para el diseño del sitio web
 - Java y JPA para el backend
 - JSP para poder insertar código java en las paginas web.
